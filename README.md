@@ -1,0 +1,1 @@
+This script calculates the total sales for a shop within a given time period. It reads the product details from a text file, which can be modified according to the shop's inventory. It also validates the input dates and outputs the total sum.
